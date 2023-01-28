@@ -14,3 +14,5 @@
 ***
 
 For more information about the project: [BTech_Thesis](./BTech_Thesis.pdf) and [Final_Presentation](./Final_Presentation.pdf)
+
+**Note:** This research work published in IEEE Access. [S. Prasath, K. Sethi, D. Mohanty, P. Bera and S. R. Samantaray, "Analysis of Continual Learning Models for Intrusion Detection System," in IEEE Access, vol. 10, pp. 121444-121464, 2022, doi: 10.1109/ACCESS.2022.3222715.](https://ieeexplore.ieee.org/document/9953983)
